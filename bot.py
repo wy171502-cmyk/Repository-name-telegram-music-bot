@@ -1,1 +1,1 @@
-print("Music Bot starting...")
+("Music Bot starting...")
